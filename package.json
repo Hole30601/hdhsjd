@@ -2,7 +2,8 @@
   "type": "module",
   "dependencies": {
     "@payos/node": "^1.0.0",
-    "firebase-admin": "^13.0.0"
+    "firebase-admin": "^13.0.0",
+    "firebase": "^10.12.2"
   },
   "scripts": {
     "start": "node javascript/app.js"
