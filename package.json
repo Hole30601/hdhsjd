@@ -3,6 +3,6 @@
   "dependencies": {
     "@payos/node": "^1.0.0",
     "firebase-admin": "^13.0.0",
-    "start": "node javascript/api.js"
+    "start": "node javascript/app.js"
   }
 }
