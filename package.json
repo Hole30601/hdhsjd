@@ -7,6 +7,6 @@
   }
   
   "scripts": {
-    "start": "node javascript/api.js"
+    "start": "node javascript/app.js"
   }
 }
