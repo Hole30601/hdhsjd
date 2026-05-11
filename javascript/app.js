@@ -1,5 +1,5 @@
 import { initializeApp }
-from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+from "firebase/app";
 
 import {
   getDatabase,
@@ -11,7 +11,7 @@ import {
   set,
   get
 }
-from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+from "firebase/database";
 /* FIREBASE */
 
 const firebaseConfig = {
